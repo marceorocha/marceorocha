@@ -1,24 +1,3 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">I'm Marcelo, a full-time full-stack freelance developer, just starting.</div>  
-  
-
-- 🔭 I’m currently working on [aPuntoNutricion](https://github.com/marceorocha/Nutricionista-Abril-Demontel)  
-  
-
-- 🌱 I’m currently learning Vue JS, Docker, firebase and Kubernetes  
-  
-
-- ❓ Ask me about anything related toJavaScript  
-  
-
--   
-  
-
-<br/>  
 
 
 ## My Skill Set  
